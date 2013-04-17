@@ -1,0 +1,38 @@
+C:\Users\立堯\Documents\Visual Studio 2012\Projects\WP8ImageTesting\WP8ImageTesting\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\立堯\Documents\Visual Studio 2012\Projects\WP8ImageTesting\WP8ImageTesting\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\立堯\Documents\Visual Studio 2012\Projects\WP8ImageTesting\WP8ImageTesting\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\立堯\Documents\Visual Studio 2012\Projects\WP8ImageTesting\WP8ImageTesting\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\立堯\Documents\Visual Studio 2012\Projects\WP8ImageTesting\WP8ImageTesting\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\立堯\Documents\Visual Studio 2012\Projects\WP8ImageTesting\WP8ImageTesting\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\立堯\Documents\Visual Studio 2012\Projects\WP8ImageTesting\WP8ImageTesting\Bin\Debug\WP8ImageTesting.dll
+C:\Users\立堯\Documents\Visual Studio 2012\Projects\WP8ImageTesting\WP8ImageTesting\Bin\Debug\WP8ImageTesting.pdb
+C:\Users\立堯\Documents\Visual Studio 2012\Projects\WP8ImageTesting\WP8ImageTesting\Bin\Debug\AppManifest.xaml
+C:\Users\立堯\Documents\Visual Studio 2012\Projects\WP8ImageTesting\WP8ImageTesting\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\立堯\Documents\Visual Studio 2012\Projects\WP8ImageTesting\WP8ImageTesting\Bin\Debug\WP8ImageTesting_Debug_AnyCPU.xap
+C:\Users\立堯\Documents\Visual Studio 2012\Projects\WP8ImageTesting\WP8ImageTesting\obj\Debug\App.g.cs
+C:\Users\立堯\Documents\Visual Studio 2012\Projects\WP8ImageTesting\WP8ImageTesting\obj\Debug\MainPage.g.cs
+C:\Users\立堯\Documents\Visual Studio 2012\Projects\WP8ImageTesting\WP8ImageTesting\obj\Debug\WP8ImageTesting.g.resources
+C:\Users\立堯\Documents\Visual Studio 2012\Projects\WP8ImageTesting\WP8ImageTesting\obj\Debug\WP8ImageTesting.Resources.AppResources.resources
+C:\Users\立堯\Documents\Visual Studio 2012\Projects\WP8ImageTesting\WP8ImageTesting\obj\Debug\ImageUpdateWithoutFlicker.csproj.GenerateResource.Cache
+C:\Users\立堯\Documents\Visual Studio 2012\Projects\WP8ImageTesting\WP8ImageTesting\obj\Debug\WP8ImageTesting.dll
+C:\Users\立堯\Documents\Visual Studio 2012\Projects\WP8ImageTesting\WP8ImageTesting\obj\Debug\WP8ImageTesting.pdb
+C:\Users\立堯\Documents\Visual Studio 2012\Projects\WP8ImageTesting\WP8ImageTesting\obj\Debug\XapCacheFile.xml
+D:\SourceCode\WP8ImageUpdateFlickerSample\WP8ImageTesting\Bin\Debug\Assets\ApplicationIcon.png
+D:\SourceCode\WP8ImageUpdateFlickerSample\WP8ImageTesting\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\SourceCode\WP8ImageUpdateFlickerSample\WP8ImageTesting\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\SourceCode\WP8ImageUpdateFlickerSample\WP8ImageTesting\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\SourceCode\WP8ImageUpdateFlickerSample\WP8ImageTesting\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\SourceCode\WP8ImageUpdateFlickerSample\WP8ImageTesting\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\SourceCode\WP8ImageUpdateFlickerSample\WP8ImageTesting\Bin\Debug\WP8ImageTesting.dll
+D:\SourceCode\WP8ImageUpdateFlickerSample\WP8ImageTesting\Bin\Debug\WP8ImageTesting.pdb
+D:\SourceCode\WP8ImageUpdateFlickerSample\WP8ImageTesting\Bin\Debug\AppManifest.xaml
+D:\SourceCode\WP8ImageUpdateFlickerSample\WP8ImageTesting\Bin\Debug\Properties\WMAppManifest.xml
+D:\SourceCode\WP8ImageUpdateFlickerSample\WP8ImageTesting\Bin\Debug\WP8ImageTesting_Debug_AnyCPU.xap
+D:\SourceCode\WP8ImageUpdateFlickerSample\WP8ImageTesting\obj\Debug\App.g.cs
+D:\SourceCode\WP8ImageUpdateFlickerSample\WP8ImageTesting\obj\Debug\MainPage.g.cs
+D:\SourceCode\WP8ImageUpdateFlickerSample\WP8ImageTesting\obj\Debug\WP8ImageTesting.g.resources
+D:\SourceCode\WP8ImageUpdateFlickerSample\WP8ImageTesting\obj\Debug\WP8ImageTesting.Resources.AppResources.resources
+D:\SourceCode\WP8ImageUpdateFlickerSample\WP8ImageTesting\obj\Debug\ImageUpdateWithoutFlicker.csproj.GenerateResource.Cache
+D:\SourceCode\WP8ImageUpdateFlickerSample\WP8ImageTesting\obj\Debug\WP8ImageTesting.dll
+D:\SourceCode\WP8ImageUpdateFlickerSample\WP8ImageTesting\obj\Debug\WP8ImageTesting.pdb
+D:\SourceCode\WP8ImageUpdateFlickerSample\WP8ImageTesting\obj\Debug\XapCacheFile.xml
